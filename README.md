@@ -7,3 +7,6 @@ This is a universe that I'm creating. I am an extreme fan of the game [Sigma Sta
 Every so often, I'll update the bible with more stuff as I come up with it. Eventually a game will be made in this universe using [TGL](https://github.com/CaptainSly/TheGildedLibrary). 
 
 The [Universe Bible](Universe%20Bible.md) is where the universe is being created. 
+
+
+"© 2026 Zachary Knoblauch. All rights reserved. No part of this work may be reproduced, distributed, or used to train AI models without explicit written permission.
