@@ -9,4 +9,4 @@ Every so often, I'll update the bible with more stuff as I come up with it. Even
 The [Universe Bible](Universe%20Bible.md) is where the universe is being created. 
 
 
-"© 2026 Zachary Knoblauch. All rights reserved. No part of this work may be reproduced, distributed, or used to train AI models without explicit written permission.
+© 2026 Zachary Knoblauch. All rights reserved. No part of this work may be reproduced, distributed, or used to train AI models without explicit written permission.
