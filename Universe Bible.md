@@ -533,3 +533,6 @@
 
 ## Games
 - The first 2 games in the universe should have NOTHING to do with the Xyloxoth birthing "End Game" so to speak. Give the universe time to tell other tales as well rather than just jumping to straight end game scenario
+
+
+© 2026 Zachary Knoblauch. All rights reserved. No part of this work may be reproduced, distributed, or used to train AI models without explicit written permission.
