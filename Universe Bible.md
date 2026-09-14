@@ -15,6 +15,10 @@
 - The Orville
 - Starfinder
 - Cosmic Horror
+- The Thing
+- Eldritch Horror
+- The Twilight Zone
+- Alfred Hitchcock Presents
 
 ## Star Date System
 - The in-universe calendar. Not tied to Earth years, Earth's calendar died with Gerald.
